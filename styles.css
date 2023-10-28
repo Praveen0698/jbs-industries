@@ -1319,7 +1319,7 @@ footer {
 
   .image-back,
   .about-img-back {
-    height: 50vh;
+    height: 60vh;
   }
 
   .nav-links {
@@ -1522,6 +1522,9 @@ footer {
   .port-cont {
     width: 90%;
   }
+  .form-container {
+    padding: 10px 5px;
+  }
 }
 
 @media screen and (max-width: 580px) {
@@ -1531,7 +1534,7 @@ footer {
 
   .image-back,
   .about-img-back {
-    height: 50vh;
+    height: 60vh;
   }
 
   .nav-links {
@@ -1712,6 +1715,10 @@ footer {
     width: 90%;
   }
 
+  .form-container {
+    padding: 10px 5px;
+  }
+
   .contact-form-input {
     width: 90%;
   }
@@ -1763,6 +1770,10 @@ footer {
   .port-cont {
     width: 90%;
   }
+
+  .form-container {
+    padding: 10px 5px;
+  }
 }
 
 @media screen and (max-width: 420px) {
@@ -1772,7 +1783,7 @@ footer {
 
   .image-back,
   .about-img-back {
-    height: 50vh;
+    height: 60vh;
   }
 
   .nav-links {
@@ -2037,6 +2048,10 @@ footer {
   .port-cont {
     width: 90%;
   }
+
+  .form-container {
+    padding: 10px 5px;
+  }
 }
 
 @media screen and (max-width: 380px) {
@@ -2045,7 +2060,7 @@ footer {
   }
 
   .image-back {
-    height: 60vh;
+    height: 70vh;
   }
 
   .about-img-back {
@@ -2270,6 +2285,9 @@ footer {
 
   .google-map {
     width: 90%;
+  }
+  .form-container {
+    padding: 10px 5px;
   }
 
   .contact-form-input {
