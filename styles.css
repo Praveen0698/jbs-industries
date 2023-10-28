@@ -29,7 +29,7 @@ body {
   display: none;
   width: 100%;
   position: absolute;
-  top: 10%;
+  top: 12%;
   left: 0;
   text-align: center;
   padding: 50px 0;
@@ -108,7 +108,7 @@ body {
   position: absolute;
   top: 8%;
   left: 0;
-  padding: 10px 50px;
+  padding: 0 50px;
 }
 
 .nav-bar .menu-icon {
@@ -655,7 +655,7 @@ footer {
 }
 
 .about-back-content {
-  top: 30%;
+  top: 35%;
 }
 
 .about-jbs .add-content {
@@ -868,12 +868,12 @@ footer {
   color: white;
 }
 
-form .msg-comment {
+.contact-form-input .msg-comment {
   padding-bottom: 30px;
   height: 60px;
 }
 
-form .form-btn {
+.contact-form-input .form-btn {
   width: 25%;
   font-size: 1.2rem;
   padding: 5px 10px;
@@ -961,7 +961,7 @@ form .form-btn {
   }
 
   .nav-bar {
-    padding: 10px 20px;
+    padding: 0 20px;
     top: 4%;
   }
 
@@ -1125,7 +1125,7 @@ form .form-btn {
   }
 
   .nav-bar {
-    padding: 10px 20px;
+    padding: 0 20px;
     top: 4%;
   }
 
@@ -1327,7 +1327,7 @@ form .form-btn {
   }
 
   .nav-bar {
-    padding: 10px 20px;
+    padding: 0 10px;
     top: 4%;
   }
 
@@ -1481,7 +1481,7 @@ form .form-btn {
     width: 90%;
   }
 
-  form {
+  .contact-form-input {
     width: 90%;
   }
 
@@ -1539,7 +1539,7 @@ form .form-btn {
   }
 
   .nav-bar {
-    padding: 10px 20px;
+    padding: 0 10px;
     top: 4%;
   }
 
@@ -1712,7 +1712,7 @@ form .form-btn {
     width: 90%;
   }
 
-  form {
+  .contact-form-input {
     width: 90%;
   }
 
@@ -1780,7 +1780,7 @@ form .form-btn {
   }
 
   .nav-bar {
-    padding: 20px 20px;
+    padding: 0 10px;
     top: 5%;
   }
 
@@ -1986,7 +1986,7 @@ form .form-btn {
     width: 90%;
   }
 
-  form {
+  .contact-form-input {
     width: 90%;
   }
 
@@ -2065,7 +2065,7 @@ form .form-btn {
   }
 
   .nav-bar {
-    padding: 20px 20px;
+    padding: 0 10px;
     top: 6%;
   }
 
@@ -2272,7 +2272,7 @@ form .form-btn {
     width: 90%;
   }
 
-  form {
+  .contact-form-input {
     width: 90%;
   }
 
