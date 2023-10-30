@@ -1322,10 +1322,6 @@ footer {
     height: 60vh;
   }
 
-  .image-back {
-    height: 50vh;
-  }
-
   .nav-links {
     display: none;
   }
@@ -1341,7 +1337,7 @@ footer {
   }
 
   .img-back-content {
-    top: 17%;
+    top: 15%;
     left: 10%;
   }
 
@@ -1539,10 +1535,6 @@ footer {
   .image-back,
   .about-img-back {
     height: 60vh;
-  }
-
-  .image-back {
-    height: 50vh;
   }
 
   .nav-links {
@@ -1792,10 +1784,6 @@ footer {
   .image-back,
   .about-img-back {
     height: 60vh;
-  }
-
-  .image-back {
-    height: 50vh;
   }
 
   .nav-links {
@@ -2072,7 +2060,7 @@ footer {
   }
 
   .image-back {
-    height: 40vh;
+    height: 70vh;
   }
 
   .about-img-back {
@@ -2084,7 +2072,7 @@ footer {
   }
 
   .about-header .img-back-content {
-    top: 11%;
+    top: 13%;
   }
 
   .nav-links {
@@ -2102,7 +2090,7 @@ footer {
   }
 
   .img-back-content {
-    top: 17%;
+    top: 20%;
     left: 10%;
   }
 
