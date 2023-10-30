@@ -726,6 +726,38 @@ footer {
   color: white;
 }
 
+.team-say {
+  width: 100%;
+  padding: 50px;
+  background: #000000;
+  background: -webkit-linear-gradient(to right, #434343, #000000);
+  background: linear-gradient(to right, #434343, #000000);
+  text-align: center;
+}
+
+.team-words {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 30px;
+  color: white;
+}
+
+.team-words .say {
+  padding: 50px;
+  background: #00bf8f;
+  background: -webkit-linear-gradient(to right, #88baae, #252828);
+  background: linear-gradient(to right, #434b49, #0b4f38);
+  border-radius: 10px;
+}
+
+.team-desg {
+  margin-top: 10px;
+  color: #5fc7cf;
+  font-size: 16px;
+  font-weight: 300;
+}
 /* services page */
 
 #services {
@@ -977,7 +1009,7 @@ footer {
 
   .top-contact p,
   .top-contact i {
-    font-size: 12px;
+    font-size: 10px;
     color: #000000;
   }
 
@@ -1141,7 +1173,7 @@ footer {
 
   .top-contact p,
   .top-contact i {
-    font-size: 12px;
+    font-size: 10px;
     color: #000000;
   }
 
@@ -1317,6 +1349,10 @@ footer {
     font-size: 80%;
   }
 
+  .h1 {
+    margin: 0;
+  }
+
   .image-back,
   .about-img-back {
     height: 60vh;
@@ -1490,7 +1526,7 @@ footer {
   }
 
   .about-img-back {
-    height: 30vh;
+    height: 40vh;
   }
 
   .about-header .nav-bar {
@@ -1498,7 +1534,7 @@ footer {
   }
 
   .about-header .img-back-content {
-    top: 13%;
+    top: 15%;
   }
 
   .about-addon {
@@ -1530,6 +1566,10 @@ footer {
 @media screen and (max-width: 580px) {
   html {
     font-size: 80%;
+  }
+
+  .img-back-content p {
+    margin: 0;
   }
 
   .image-back,
@@ -1728,7 +1768,7 @@ footer {
   }
 
   .about-img-back {
-    height: 30vh;
+    height: 40vh;
   }
 
   .about-header .nav-bar {
@@ -1736,7 +1776,7 @@ footer {
   }
 
   .about-header .img-back-content {
-    top: 13%;
+    top: 20%;
   }
   .about-addon {
     margin-top: 30px;
@@ -2006,7 +2046,7 @@ footer {
   }
 
   .about-img-back {
-    height: 30vh;
+    height: 40vh;
   }
 
   .about-header .nav-bar {
@@ -2014,7 +2054,7 @@ footer {
   }
 
   .about-header .img-back-content {
-    top: 13%;
+    top: 16%;
   }
   .about-addon {
     margin-top: 30px;
@@ -2064,7 +2104,7 @@ footer {
   }
 
   .about-img-back {
-    height: 30vh;
+    height: 40vh;
   }
 
   .about-header .nav-bar {
@@ -2072,7 +2112,7 @@ footer {
   }
 
   .about-header .img-back-content {
-    top: 13%;
+    top: 15%;
   }
 
   .nav-links {
